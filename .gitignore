@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+aipdd_env/
+
+# Binary model weights
+*.pt
+*.onnx
+*.h5
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
